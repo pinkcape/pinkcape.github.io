@@ -1,6 +1,6 @@
 {
   "short_name": "Pinkcape",
-  "name": "Pinkcape portfolio app",
+  "name": "Pinkcape Pwa",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#ff9ad8"
+  "theme_color": "#ff3769",
+  "background_color": "#242424"
 }
